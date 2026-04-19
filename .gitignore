@@ -1,3 +1,6 @@
 */myenv/
+*/myenv311/
+*/models/
+*/offload/
 .env
 *.pyc
